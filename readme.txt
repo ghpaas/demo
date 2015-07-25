@@ -1,2 +1,1 @@
-git hub
-dd /usr/bin/en
+这个是贵州分支
